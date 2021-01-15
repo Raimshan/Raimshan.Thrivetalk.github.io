@@ -1,0 +1,804 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.main{
+    width: 100%;
+    height: 840px;
+	background-image: url("Gro.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.nav_elements{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.btn{
+	width: 150px;
+	height: 50px;
+	border-radius: 50px;
+	border: solid #62D0DF 1px;
+	background-color: #62D0DF;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	font-family: 'Federo', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	margin-left: 319px;
+	margin-top: 27px;
+}
+.btn>a{
+	text-decoration: none;
+	color: white;
+}
+a{
+	text-decoration: none;
+}
+.linkfirst{
+	width: 50px;
+	height: 34px;
+	justify-content: center;
+	font-family: 'Federo', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	color: #22356F;
+	margin-top: 38px;
+	display: flex;
+	justify-content: center;
+}
+.linksecond{
+	width: 50px;
+	height: 34px;
+	margin-left: 28px;
+	font-family: 'Federo', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	color: #22356F;
+	margin-top: 38px;
+	display: flex;
+	justify-content: center;
+}
+.linkthird{
+	width: 50px;
+	height: 34px;
+	margin-left: 28px;
+	font-family: 'Federo', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	color: #22356F;
+	margin-top: 38px;
+	display: flex;
+	justify-content: center;
+}
+.linkfourth{
+	width: 50px;
+	height: 34px;
+	margin-left: 28px;
+	font-family: 'Federo', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	color: #22356F;
+	margin-top: 38px;
+	display: flex;
+	justify-content: center;
+}
+.image{
+	margin-right: 428px;
+	margin-top: 27px;
+}
+.title{
+	font-weight: 400;
+	font-style: normal;
+	font-family: 'Federo', sans-serif;
+	font-size: 48px;
+	color: #22356F;
+	margin-top: 48px;
+	margin-left: 179px;
+}
+.forum{
+	font-family: 'Federo', sans-serif;
+	font-size: 24px;
+	font-weight: 400;
+	font-style: normal;
+	color: #22356F;
+	margin-top: 76px;
+	margin-left: 179px;
+}
+.imagesecond{
+	margin-top: 187px;
+	margin-left: 179px;
+}
+.texts{
+	display: flex;
+	margin-top: 73px;
+	margin-left: 179px;
+}
+.what{
+	width: 150px;
+	height: 50px;
+	border: 1px solid #F9B640;
+	background-color: #F9B640;
+	font-family: 'Federo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	font-style: normal;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.do{
+	width: 150px;
+	height: 50px;
+	font-family: 'Federo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	font-style: normal;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 38px;
+}
+.what>a{
+	text-decoration: none;
+	color: white;
+}
+.do>a{
+	text-decoration: none;
+	color: #F9B640;
+}
+.explaining{
+	width: 100%;
+	height: 604px;
+	display: flex;
+}	
+.screen{
+	width: 65%;
+	height: 604px;
+	background-color: #62D0DF;
+}
+.new_title{
+	font-family: 'Federo', sans-serif;
+	font-size: 36px;
+	font-weight: 400;
+	font-style: normal;
+	color: white;
+	margin-left: 179px;
+	margin-top: 151px;
+}
+.new_description{
+	font-family: 'Federo', sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	font-style: normal;
+	color: white;
+	margin-left: 179px;
+	margin-top: 75px;
+}
+.footer_one{
+	width: 100%;
+	height: 80px;
+	background-color: #62D0DF;
+	display: flex;
+}
+.foot_inf{
+	font-family: 'Federo', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	color: white;
+	margin-left: 6px;
+	margin-top: 32px;
+}
+.foot_img{
+	margin-top: 34px;
+	margin-left: 179px;
+}
+.about_us{
+	width: 100%;
+	height: 361px;
+	display: flex;
+}
+.about_title{
+	font-family: 'Federo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	font-style: normal;
+	color: #22356F;
+	margin-top: 156px;
+	margin-left: 106px;
+}
+.about_inf{
+	font-family: 'Federo', sans-serif;
+	font-size: 24px;
+	font-weight: 400;
+	font-style: normal;
+	color: #22356F;
+	margin-left: 225px;
+	margin-top: 150px;
+}
+.help{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 59px;
+}
+.help>div{
+	font-family: 'Federo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	font-style: normal;
+	color: rgba(34, 53, 111, 0.5);
+}
+.types{
+	display: flex;
+	width: 100%;
+	height: 360px;
+}
+.weight{
+	width: 25%;
+	height: 360px;
+	background-color: #FFE2DE;
+	display: flex;
+	justify-content: center;
+}
+.run{
+	width: 25%;
+	height: 360px;
+	background-color: #C4E769;
+	display: flex;
+	justify-content: center;
+}
+.pump{
+	width: 25%;
+	height: 360px;
+	background-color: #62D0DF;
+	display: flex;
+	justify-content: center;
+}
+.iron{
+	width: 25%;
+	height: 360px;
+	background-color: #0052C1;
+	display: flex;
+	justify-content: center;
+}
+.item{
+	width: 255px;
+	height: 69px;
+	display: flex;
+	justify-content: flex-start;
+	margin-top: 72px;
+	border-top: 1px solid white;
+	padding-top: 23px;
+	font-family: 'Federo', sans-serif;
+	font-size: 32px;
+	font-weight: 400;
+	font-style: normal;
+	color: white;
+}
+.type_image{
+	margin-top: 10px;
+	margin-right: 15px;
+}
+.nothing{
+	width: 100%;
+	height: 75px;
+}
+.image_three{
+	width: 35%;
+	height: 604px;
+	background-image: url("christopher-campbell-40367.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.type{
+	display: flex;
+	width: 100%;
+	height: 480px;
+}
+.health{
+	width: 33.33333333333333%;
+	height: 480px;
+	background-color: #22356F;
+	display: flex;
+	justify-content: center;
+}
+.health>div{
+	display: flex;
+	border-top: 1px solid white;
+	margin-top: 96px;
+	width: 340px;
+	height: 90px;
+	font-family: 'Federo', sans-serif;
+	font-size: 32px;
+	font-weight: 400;
+	font-style: normal;
+	color: white;
+	padding-top: 30px;
+}
+.ment{
+	width: 33.33333333333333%;
+	height: 480px;
+	background-color: #0052C1;
+	display: flex;
+	justify-content: center;
+}
+.ment>div{
+    display: flex;
+	border-top: 1px solid white;
+	margin-top: 96px;
+	width: 340px;
+	height: 90px;
+	font-family: 'Federo', sans-serif;
+	font-size: 32px;
+	font-weight: 400;
+	font-style: normal;
+	color: white;
+	padding-top: 30px;
+}
+.club{
+	width: 33.33333333333333%;
+	height: 480px;
+	background-image: url("joanna-kosinska-340748.png");
+	display: flex;
+	justify-content: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.club>div{
+    display: flex;
+	border-top: 1px solid white;
+	margin-top: 96px;
+	width: 340px;
+	height: 90px;
+	font-family: 'Federo', sans-serif;
+	font-size: 32px;
+	font-weight: 400;
+	font-style: normal;
+	color: white;
+	padding-top: 30px;
+}
+.typ{
+	display: flex;
+	width: 100%;
+	height: 480px;
+}
+.heal{
+	width: 33.33333333333333%;
+	height: 480px;
+	background-color: #62D0DF;
+	display: flex;
+	justify-content: center;
+}
+.cl{
+	width: 33.33333333333333%;
+	height: 480px;
+	background-color: #8F00FF;
+	display: flex;
+	justify-content: center;
+}
+.men{
+	width: 33.33333333333333%;
+	height: 480px;
+	background-color: #DEE1FF;
+	display: flex;
+	justify-content: center;
+}
+.heal>div{
+	display: flex;
+	border-top: 1px solid white;
+	margin-top: 96px;
+	width: 340px;
+	height: 90px;
+	font-family: 'Federo', sans-serif;
+	font-size: 32px;
+	font-weight: 400;
+	font-style: normal;
+	color: white;
+	padding-top: 30px;
+}
+.cl>div{
+	display: flex;
+	border-top: 1px solid white;
+	margin-top: 96px;
+	width: 340px;
+	height: 90px;
+	font-family: 'Federo', sans-serif;
+	font-size: 32px;
+	font-weight: 400;
+	font-style: normal;
+	color: white;
+	padding-top: 30px;
+}
+.men>div{
+	display: flex;
+	border-top: 1px solid white;
+	margin-top: 96px;
+	width: 340px;
+	height: 90px;
+	font-family: 'Federo', sans-serif;
+	font-size: 32px;
+	font-weight: 400;
+	font-style: normal;
+	color: white;
+	padding-top: 30px;
+}
+.block_one{
+    display: flex;
+    justify-content: center;
+}
+.block_two{
+    display: flex;
+    justify-content: center;
+}
+.blocks{
+    display: flex;
+    flex-direction: column;
+}
+.zag{
+	font-family: 'Federo', sans-serif;
+	font-size: 28px;
+	font-weight: 400;
+	font-style: normal;
+	color: #22356F;
+}
+.ip{
+	font-family: 'Federo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	font-style: normal;
+	color: rgba(34, 53, 111, 0.5);
+	margin-top: 28px;
+}
+.jin{
+	width: 480px;
+	height: 240px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.fun_fact{
+	display: flex;
+    width: 100%;
+    height: 800px;
+}
+.back_picture{
+	width: 33.33333333333333%;
+	height: 800px;
+	background-image: url("linkedin-sales-navigator-402831.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.itself{
+	width: 66.66666666666666%;
+	height: 800px;
+}
+.agoin{
+	font-family: 'Federo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	font-style: normal;
+	color: #22356F;
+	margin-top: 103px;
+	margin-left: 109px;
+}
+.main_fact{
+	font-family: 'Federo', sans-serif;
+	font-size: 36px;
+	font-weight: 400;
+	font-style: normal;
+	color: #22356F;
+	margin-top: 225px;
+	margin-left: 109px;
+}
+.main_fact>span{
+	color: #6CD3E1;
+	font-family: 'Federo', sans-serif;
+	font-size: 36px;
+	font-weight: 400;
+	font-style: normal;
+}
+a.main_link{
+	text-decoration: none;
+	font-family: 'Federo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	font-style: normal;
+	color: #FAB63E;
+}
+.del{
+	margin-left: 109px;
+	margin-top: 152px;
+}
+.jone{
+	width: 100%;
+	height: 800px;
+	display: flex;
+}
+.blue{
+	width: 66.66666666666666%;
+	height: 800px;
+	background-color: #22356F;
+}
+.good_image{
+	width: 33.33333333333333%;
+	height: 800px;
+	background-image: url("charles-etoroma-390119.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.cey{
+	font-family: 'Federo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	font-style: normal;
+	color: white;
+	margin-left: 180px;
+	margin-top: 103px;
+}
+.read{
+	font-family: 'Federo', sans-serif;
+	font-size: 64px;
+	font-weight: 700;
+	font-style: normal;
+	color: white;
+	margin-left: 180px;
+	margin-top: 230px;
+}
+.take{
+	font-family: 'Federo', sans-serif;
+	font-size: 36px;
+	font-weight: 400;
+	font-style: normal;
+	color: white;
+	margin-left: 180px;
+	margin-top: 75px;
+}
+.glass{
+	font-family: 'Federo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	font-style: normal;
+	color: #62D0DF;
+	margin-left: 180px;
+	margin-top: 75px;
+}
+.final{
+	width: 100%;
+	height: 380px;
+	display: flex;
+}
+.black_lady{
+	width: 40%;
+	height: 380px;
+	background-image: url("autumn-goodman-242825.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.kalen{
+	width: 60%;
+	height: 380px;
+	display: flex;
+	align-items: center;
+}
+.ofo{
+	font-family: 'Federo', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	color: #22356F;
+}
+.fish{
+	font-family: 'Federo', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	color: rgba(34, 53, 111, 0.5);
+	margin-top: 20px;
+}
+.name{
+	font-family: 'Federo', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	color: #22356F;
+}
+.yumi{
+	font-family: 'Federo', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	color: #22356F;
+}
+.street{
+	font-family: 'Federo', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	color: rgba(34, 53, 111, 0.5);
+	margin-top: 20px;
+}
+.phone{
+	font-family: 'Federo', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	color: rgba(34, 53, 111, 0.5);
+	margin-top: 20px;
+}
+.phone>span{
+	font-family: 'Federo', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	color: #62D0DF;
+}
+.place{
+	font-family: 'Federo', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	color: #22356F;
+}
+.worktime{
+	margin-top: 20px;
+	font-family: 'Federo', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	color: rgba(34, 53, 111, 0.5);
+}
+.yu{
+    margin-left: 50px;
+    width: 240px;
+    height: 183px;
+}
+.yumi{
+    margin-left: 22px;
+    width: 240px;
+    height: 183px;
+}
+.pid{
+	margin-left: 68px;
+	width: 240px;
+    height: 183px;
+}
+@media (max-width:1169px){
+	.explaining{
+		flex-direction: column;
+		height: 1208px;
+	}
+	.image_three{
+		width: 100%;
+	}
+	.screen{
+		width: 100%;
+	}
+	.about_us{
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		height: 800px;
+	}
+	.types{
+		flex-direction: column;
+		height: 1440px;
+	}
+	.weight{
+		width: 100%;
+	}
+	.run{
+		width: 100%;
+	}
+	.pump{
+		width: 100%;
+	}
+	.iron{
+		width: 100%;
+	}
+	.about_inf{
+		margin-top: 0px;
+		margin-left: 0px;
+	}
+	.about_title{
+		margin-left: 0px;
+		margin-top: 0px;
+		margin-bottom: 15px;
+	}
+	.nav_elements{
+		flex-direction: column;
+		align-items: center;
+	}
+	.image{
+		margin-right: 0px;
+	}
+	.linksecond{
+		margin-left: 0px;
+	}
+	.linkthird{
+		margin-left: 0px;
+	}
+	.linkfourth{
+		margin-left: 0px;
+	}
+	.btn{
+		margin-left: 0px;
+	}
+	.main{
+		height: 1200px;
+		background-image: none;
+		background-color: black;
+	}
+	.linkthird>a{
+		color: white;
+	}
+	.linksecond>a{
+		color: white;
+	}
+	.linkfirst>a{
+		color: white;
+	}
+	.linkfourth>a{
+		color: white;
+	}
+	.title{
+		color: white;
+	}
+	.forum{
+		color: white;
+	}
+	.block_one{
+		flex-direction: column;
+		align-items: center;
+		height: 720px;
+	}
+	.block_two{
+		flex-direction: column;
+		align-items: center;
+		height: 720px;
+	}
+	.jin{
+		width: 100%;
+	}
+	.fun_fact{
+		flex-direction: column;
+		align-items: center;
+		height: 1600px;
+	}
+	.back_picture{
+		width: 100%;
+	}
+	.itself{
+		width: 100%;
+	}
+	.jone{
+		flex-direction: column;
+		align-items: center;
+        height: 1600px;
+	}
+	.blue{
+		width: 100%;
+	}
+	.good_image{
+	    width: 100%;
+	}
+	.final{
+		flex-direction: column;
+		align-items: center;
+	}
+	.black_lady{
+		width: 100%;
+	}
+	.kalen{
+		width: 100%;
+	}
+}
