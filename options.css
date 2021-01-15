@@ -916,4 +916,7 @@ a.main_link{
     .do{
     	width: 200px;
     }
+    .foot_image{
+    	margin-left: 10px;
+    }
 }
