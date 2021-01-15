@@ -907,4 +907,13 @@ a.main_link{
        margin-top: 40px;
        margin-left: 20px;
     }
+    .texts{
+    	margin-left: 10px;
+    }
+    .what{
+    	width: 200px;
+    }
+    .do{
+    	width: 200px;
+    }
 }
