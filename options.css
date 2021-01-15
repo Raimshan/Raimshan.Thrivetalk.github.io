@@ -801,4 +801,98 @@ a.main_link{
 	.kalen{
 		width: 100%;
 	}
+	.types{
+		flex-direction: column;
+	}
+	.weight{
+		width: 100%;
+	}
+	.run{
+		width: 100%;
+	}
+	.pump{
+		width: 100%;
+	}
+    .iron{
+		width: 100%;
+	}
+	.imagesecond{
+		margin-left: 10px;
+		margin-top: 20px;
+	}
+	.title{
+		margin-left: 10px;
+		margin-top: 20px;
+	}
+	.forum{
+		margin-left: 10px;
+		margin-top: 20px;
+	}
+	.type{
+		flex-direction: column;
+		height: 1440px;
+	}
+	.health{
+		width: 100%;
+	}
+	.ment{
+		width: 100%;
+	}
+	.club{
+		width: 100%;
+	}
+	.typ{
+		flex-direction: column;
+		height: 1440px;
+	}
+	.heal{
+		width: 100%;
+	}
+	.men{
+		width: 100%;
+	}
+	.cl{
+		width: 100%;
+	}
+	.new_title{
+		margin-left: 10px;
+	}
+	.new_description{
+		margin-left: 10px;
+		margin-top: 20px;
+	}
+	.kalen{
+		flex-direction: column;
+		height: 750px;
+	}
+    .final{
+    	height: 750px;
+    }
+    .blue{
+    	height: 1000px;
+    }
+    .cey{
+    	margin-left: 10px;
+    	margin-top: 210px;
+    }
+    .read{
+    	margin-left: 10px;
+    	margin-top: 50px;
+    }
+    .take{
+    	margin-left: 10px;
+    	margin-top: 30px;
+    }
+    .agoin{
+       margin-left: 10px;
+       margin-top: 200px;
+    }
+    .main_fact{
+       margin-left: 10px;
+       margin-top: 30px;
+    }
+    .del{
+       margin-left: 10px;
+       margin-top: 100px;
+    }
 }
